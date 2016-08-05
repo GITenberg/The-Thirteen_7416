@@ -1,0 +1,47 @@
+_repo: The-Thirteen_7416
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+  translator:
+    agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - Balzac, H. de (Honoré de)
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2004-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Ferragus, chief of the Dévorants -- The duchesse of Langeais -- The
+  girl with the golden eyes.
+title: The Thirteen
+url: http://www.gutenberg.org/ebooks/7416
